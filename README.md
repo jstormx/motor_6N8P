@@ -1,4 +1,4 @@
-![电机3d](https://github.com/jstormx/Planetary-cycloidal-reducer/blob/main/model3d.png)
+![电机3d](https://github.com/jstormx/motor_6N8P/blob/main/motor3d.png)
 
 轴向磁通电机6N8P
 
